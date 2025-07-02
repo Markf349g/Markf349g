@@ -1,17 +1,21 @@
-## Hi there 👋
+# 👋 Welcome
 
-<!--
-**Markf349g/Markf349g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Mark Vizzhachiy**, a software engineer with over **5 years of experience** in developing efficient, scalable, and well-structured software solutions across multiple platforms.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Technical Expertise
 
+- **Languages & Frameworks:** C++, Python, SQL (MySQL), Bash, Win32 API, Qt  
+- **Domains:** Desktop applications, automation bots, ERP systems, web scraping, low-level utilities  
+- **Automation & CI/CD:** GitHub Actions, custom CLI tools, workflow optimization  
+- **Version Control:** Git, GitHub, GitLab  
+- **Tools:** Visual Studio, Qt Designer, Selenium, REST APIs, GitHub CLI  
+
+---
+
+## 📂 Projects & Portfolio
+
+Explore my open-source contributions and professional work:
+
+- 🌐 **Portfolio Website:** [markf349g.github.io](https://markf349g.github.io)  
