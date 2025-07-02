@@ -1,4 +1,4 @@
-👋 Welcome to My Professional Profile
+# 👋 Welcome to My Professional Profile
 
 My name is **Mark Vizzhachiy**, and I'm a passionate 🚀 **Software Engineer** with over **5 years of hands-on experience** architecting and deploying **efficient, scalable, and meticulously structured software solutions** across diverse platforms. I thrive on transforming complex challenges into elegant code, always aiming for optimal performance and maintainability.
 
