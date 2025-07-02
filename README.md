@@ -50,13 +50,14 @@ My toolkit is equipped with powerful IDEs and essential development tools that a
 
 -----
 
-## 📂 Projects & Portfolio: See My Work in Action\!
+## 📂 Projects & Portfolio
 
-I believe in demonstrating my capabilities through practical applications. Explore my open-source contributions and professional work to get a deeper insight into my skills and problem-solving approach.
+My portfolio showcases a selection of my open-source contributions and professional work, reflecting my practical skills and problem-solving methodologies.
 
-  * 🌐 **My Digital Showcase (Portfolio Website):** [markf349g.github.io](https://markf349g.github.io) - Dive into a curated collection of my projects and achievements\! 🌟
+* 🌐 **My Digital Showcase (Portfolio Website):** [markf349g.github.io/my-programming-portfolio/](https://markf349g.github.io/my-programming-portfolio/) - Explore a comprehensive overview of my projects and accomplishments.
+* 🐙 **Portfolio GitHub Repository:** [Markf349g/my-programming-portfolio](https://github.com/Markf349g/my-programming-portfolio) - Dive into the source code and development history behind my portfolio.
 
------
+---
 
 ## 📫 Let's Connect\! I'm Eager to Collaborate 🤝
 
