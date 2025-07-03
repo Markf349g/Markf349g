@@ -63,22 +63,21 @@ My portfolio showcases a selection of my open-source contributions and professio
 
 I'm always open to new opportunities, collaborations, and discussions about exciting tech ventures. Feel free to reach out through any of the following channels:
 
-  * 📱 **Phone:** [+66 97 163 7171](https://www.google.com/search?q=tel:%2B66971637171) - Let's chat\! 📞
-  * ✉️ **Email:** [mark.vizzhachiy@gmail.com](mailto:mark.vizzhachiy@gmail.com) - Drop me a line\! 📧
-  * 🐙 **GitHub:** [Markf349g](https://github.com/Markf349g) - Explore my code and contributions\! 👨‍💻
-  * 🦊 **GitLab:** [mark.vizzhachiy](https://gitlab.com/mark.vizzhachiy) - Find more of my repositories here\! 🦊
-  * 🌐 **LinkedIn:** [Mark Vizzhachiy](https://www.linkedin.com/in/mark-v-28033536b) - Connect with me professionally\! 👔
-  * 📺 **YouTube:** [@Markf349g](https://www.youtube.com/@Markf349g) - Catch my tech insights and tutorials\! ▶️
-  * ❓ **Stack Overflow:** [Markf349g](https://stackoverflow.com/users/30783672/markf349g) - See my community contributions\! 💬
-  * 🧠 **Stack Exchange Meta:** [Markf349g](https://meta.stackexchange.com/users/1774543/markf349g) - My presence in the broader Stack Exchange network. 🗨️
-  * ✖️ **X / Twitter:** [@markf349g](https://x.com/markf349g) - Follow me for quick updates and tech thoughts\! 🐦
-  * 🐘 **Mastodon:** [@Markf349g@mastodon.social](https://mastodon.social/@Markf349g) - Join me on the fediverse\! 🐘
-  * 💼 **Upwork:** [Markf349g](https://www.upwork.com/freelancers/~01721832aea465bde6?mp_source=share) - Available for freelance projects\! 📈
-  * 🧑‍💻 **Freelancer:** [Markf349g](https://www.freelancer.com/u/Markf349g?frm=Markf349g&sb=t) - Another platform for freelance opportunities\! 💡
-  * 💬 **Discord:** `1038754229541670933` - Let's chat live\! 🗣️
-  * 🆔 **ORCID:** [0009-0005-4166-3841](https://orcid.org/0009-0005-4166-3841) - My academic and research identifier. 🔬
-  * 🛠️ **LaborX:** [Markf349g](https://laborx.com/customers/users/id388396?ref=388396) - My profile for blockchain-powered freelance work\! ✨
+- 📱 **Phone**: [+66 97 163 7171](tel:+66971637171)
+- ✉️ **Email**: [mark.vizzhachiy@gmail.com](mailto:mark.vizzhachiy@gmail.com)
+- 🐙 **GitHub**: [Markf349g](https://github.com/Markf349g)
+- 🦊 **GitLab**: [mark.vizzhachiy](https://gitlab.com/mark.vizzhachiy)
+- 🐘 **Gitee**: [Markf349g](https://gitee.com/Markf349g)
+- 👤 **Gravatar**: [markvizzhachiy](https://gravatar.com/markvizzhachiy)
+- 🌐 **LinkedIn**: [Mark Vizzhachiy](https://www.linkedin.com/in/mark-v-28033536b)
+- 📺 **YouTube**: [@Markf349g](https://www.youtube.com/@Markf349g)
+- ❓ **Stack Overflow**: [Markf349g](https://stackoverflow.com/users/30783672/markf349g)
+- 🧠 **Stack Exchange Meta**: [Markf349g](https://meta.stackexchange.com/users/1774543/markf349g)
+- ✖️ **X (Twitter)**: [@markf349g](https://x.com/markf349g)
+- 🐘 **Mastodon**: [@Markf349g@mastodon.social](https://mastodon.social/@Markf349g)
+- 💼 **Upwork**: [Markf349g](https://www.upwork.com/freelancers/~01721832aea465bde6?mp_source=share)
+- 🧑‍💻 **Freelancer**: [Markf349g](https://www.freelancer.com/u/Markf349g?frm=Markf349g&sb=t)
+- 🛠️ **LaborX**: [Markf349g](https://laborx.com/customers/users/id388396?ref=388396)
+- 🆔 **ORCID**: [0009-0005-4166-3841](https://orcid.org/0009-0005-4166-3841)
+- 💬 **Discord**: `1038754229541670933`
 
------
-
-Is there anything specific you'd like to highlight or change in this expanded version?
